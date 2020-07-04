@@ -1,0 +1,85 @@
+#name{
+			margin-top:-20px;	
+			height:120px;	
+			background:#ffffff;	
+			}
+			#name ul li{
+			list-style: none;	
+			}
+			#name ul li a{
+			text-decoration: none;
+			color:#000000;
+			float: left;	
+			margin-left:150px;
+			margin-top:60px;
+			}
+			#name ul li #vv{
+			color:orangered;	
+			}
+			#demo a{
+			position: absolute;	
+			margin-left:20px;
+			text-decoration: none;
+			margin-top:-90px;
+			font-size:35px;
+			color: #458acf;
+			}	
+			#nav p{
+			position: absolute;	
+			margin-left:1150px;
+			margin-top:-58px;	
+			}	
+			#uzi img{
+			margin-top:50px;	
+			margin-left:260px;
+			-ms-transition: all 0.8s;
+			}
+			#uzi img:hover{
+			transform: scale(1.2);
+			-ms-transform: scale(1.2);			
+			}
+			#desc{
+			position: absolute;
+			width:100%;	
+			margin-left:200px;
+			}
+			.definite{
+			width: 100px;
+			height: 40px;
+			line-height: 40px;
+			background: #ff7f21;
+			margin-left:650px;	
+			}
+			.volume{
+			margin-left:100px;
+			margin-top:100px;	
+			}
+			#volog{
+			margin-left:100px;	
+			margin-top:100px;	
+			}
+			#volog p{
+			position: absolute;	
+			margin-left:100px;
+			margin-top:30px;	
+			}
+			#volog img{
+			margin-top:20px;	
+			margin-left:20px;	
+			}
+			#OO{
+			margin-left:200px;	
+			}
+			#NN p{
+			margin-left:50px;	
+			font-size:30px;	
+			}
+			#NN img{
+			margin-left:150px;	
+			width:200px;
+			height:200px;	
+			}
+			#bb{
+			margin-top:-135px;	
+			margin-left:450px;	
+			}

@@ -1,0 +1,155 @@
+#name{
+		margin-top:-20px;	
+		height:120px;	
+		background:#ffffff;	
+		}
+		#name ul li{
+		list-style: none;	
+		}
+		#name ul li a{
+		text-decoration: none;
+		color:#000000;
+		float: left;	
+		margin-left:150px;
+		margin-top:60px;
+		}
+		#name ul li #vv{
+		color:orangered;	
+		}
+		#demo a{
+		position: absolute;	
+		margin-left:20px;
+		text-decoration: none;
+		margin-top:-90px;
+		font-size:35px;
+		color: #458acf;
+		}	
+		#nav p{
+		position: absolute;	
+		margin-left:1150px;
+		margin-top:-58px;	
+		}
+		#number{
+		margin-top:100px;	
+		margin-left:350px;	
+		width:800px;
+		height:400px;
+		background-color: #EBEBEB;	
+		}
+		#number p{
+		position: absolute;	
+		color:orangered;
+		margin-left:100px;
+		margin-top:50px;	
+		}
+		#number h4{
+		position: absolute;	
+		margin-top:100px;	
+		margin-left:90px;
+		color:#000000;
+		}
+		#number img{
+		margin-left:90px;
+		margin-top:220px;
+		-ms-transition: all 0.8s;
+		}
+		#number img:hover{
+		transform: scale(1.2);
+		-ms-transform: scale(1.2);		
+		}
+		#font{
+		width:800px;
+		height:400px;
+		background: #EBEBEB;	
+		margin-left:350px;
+		margin-top: 100px;
+		}
+		#font p{
+		position: absolute;
+		color:orangered;
+		margin-left:100px;	
+		margin-top: 80px;
+		}
+		#font h4{
+		position: absolute;	
+		margin:100px;
+		margin-top:120px;
+		}
+		#font #pp{
+		margin-top:20px;	
+		margin-left:50px;	
+		}
+		#font #pp img{
+		margin-top:251px;
+		-ms-transition: all 0.8s;
+		} 
+		#font #pp img:hover{
+		transform: scale(1.2);
+		-ms-transform: scale(1.2);		
+		}
+		#ll{
+		margin-top:100px;	
+		width:800px;
+		height:680px;
+		background: #EBEBEB;	
+		}
+		#ll img{
+		margin-left:100px;	
+		margin-top:240px;	
+		-ms-transition: all 0.8s;
+		}
+		#ll img:hover{
+		transform: scale(1.2);
+		-ms-transform: scale(1.2);			
+		}
+		#zz{
+		margin-top:-10px;	
+		width:800px;
+		height:600px;
+		background-color: #EBEBEB;	
+		}
+		#zz img{
+		margin-left:100px;	
+		-ms-transition: all 0.8s;
+		}
+		#zz img:hover{
+		transform: scale(1.2);
+		-ms-transform: scale(1.2);				
+		}
+		#zz form input {
+		width:800px;
+		height:200px;	
+		}
+		#zz #xx button{
+		background-color: #FF7F21;
+		margin-left:350px;
+		margin-top:20px;	
+		}
+		#vv p{
+		color:#000000;	
+		margin-top:50px;	
+		margin-left:600px;	
+		}
+		#vv img{
+		position: absolute;	
+		margin-top:50px;
+		-ms-transition: all 0.8s;	
+		}
+		#vv img:hover{
+		transform: scale(1.2);
+		-ms-transform: scale(1.2);			
+		}
+		#vv h4{
+		margin-left:150px;	
+		}
+		#vv h3{
+		position:absolute;	
+		margin-top:50px;	
+		margin-left:170px;	
+		}
+		#nn img
+		{
+		margin-left:150px;	
+		width:200px;
+		height:200px;	
+		}
